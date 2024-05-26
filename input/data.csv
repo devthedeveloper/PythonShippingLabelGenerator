@@ -1,0 +1,4 @@
+qr_data,barcode_data,multiline_text
+https://example.com,123456789012,"Shipping Label\nOrder #12345\nDeliver to:\n123 Main Street\nCity, Country"
+https://anotherexample.com,987654321098,"Shipping Label\nOrder #67890\nDeliver to:\n456 Another Street\nCity, Country"
+https://yetanotherexample.com,456789123456,"Shipping Label\nOrder #54321\nDeliver to:\n789 Some Street\nCity, Country"
